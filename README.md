@@ -4,6 +4,9 @@
 
 Projeto do [Hacktoberfest Hack Day São José dos Campos](https://www.mlh.com/events/hacktoberfest-hack-day-sao-jose-dos-campos-x-github-community-sjc) (31/10/2026), concorrendo em *Best Open-Source AI Project* e *Best Use of Gemma 4*.
 
+## Sou iniciante, por onde começo?
+Comece aqui: [Primeira contribuição](https://github.com/firstcontributions/first-contributions)
+
 ## Por quê
 "Abra um projeto que você usa e veja no que pode contribuir" é um conselho genérico demais, e a barreira para começar é grande. Enquanto isso, pacotes pequenos dos quais metade da internet depende são mantidos por uma ou duas pessoas (event-stream, xz-utils, chalk/debug...).
 
